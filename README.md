@@ -49,12 +49,12 @@ To run the **JAYADES Dental Clinic** website locally, run this command on your t
 
 Linux and macOS:
 ```bash
-sudo git clone https://github.com/UmmidSalma/jayades-dental.git
+sudo git clone https://github.com/UmmidSalma/Software_Engineering_Project.git
 ```
 
 Windows:
 ```bash
-git clone https://github.com/UmmidSalma/jayades-dental.git
+git clone https://github.com/UmmidSalma/Software_Engineering_Project.git
 ```
 
 *(Note: Replace the GitHub URL with the actual repository URL once it is fully published)*
